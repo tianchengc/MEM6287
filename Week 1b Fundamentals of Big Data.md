@@ -10,41 +10,6 @@
 
 ---
 
-## 📚 Course Structure and Key Topics
-
-| Week | Date       | Topics Covered                                                                                              |
-|-------|------------|------------------------------------------------------------------------------------------------------------|
-| 1     | Sep. 08    | Fundamentals of Big Data – evolution, characteristics, applications, examples                              |
-| 2     | Sep. 15    | Review of RDBMS concepts; Differences between OLAP and OLTP; Data warehouses, ETL/ELT, star schemas        |
-| 3     | Sep. 22    | Big Data Management with NoSQL Databases; MongoDB lab                                                      |
-| 4     | Sep. 29    | Continued NoSQL Databases; Cassandra lab                                                                   |
-| 5     | Oct. 06    | Batch Processing of Big Data – HDFS, Map-Reduce, Hadoop Ecosystem                                          |
-| 6     | Oct. 13    | Reading week                                                                                               |
-| 7     | Oct. 20    | Big Data In-memory Processing – Apache Spark core architecture, APIs, Spark ecosystem                      |
-| 8     | Oct. 27    | Managing Data Processing Clusters and Pipelines – Databricks Community Edition                             |
-| 9     | Nov. 03    | Midterm Exam                                                                                               |
-| 10    | Nov. 10    | Databricks with RDDs, DataSets, SparkSQL, pipelines                                                        |
-| 11    | Nov. 17    | Advanced Analytics with Spark – Streaming, ML introduction                                                 |
-| 12    | Nov. 24    | Azure Big Data Landscape – Microsoft cloud services                                                       |
-| 13    | Dec. 01    | Cloud Infrastructure – MS Azure, HDInsight, stream analytics                                               |
-| TBD   | TBD        | Final Exam (Brightspace, take-home)                                                                        |
-
----
-
-## 📅 Course Deliverables and Grading
-
-| Deliverable              | Due Date          | Weight on Final Grade |
-|-------------------------|-------------------|----------------------|
-| Weekly Quizzes          | Weeks 2,3,4,5,6,8,9,10,11,12 | Not specified        |
-| Assignment 1            | Sep. 15 – Sep. 29 | 10%                  |
-| Assignment 2            | Oct. 27 – Nov. 24 | 15%                  |
-| Assignment 3            | Nov. 24 – Dec. 15 | 15%                  |
-| Course Project          | Nov. 24 – Dec. 15 | 10%                  |
-| Midterm Exam            | Nov. 03           | 10%                  |
-| Final Exam (Multiple Choice + Take-home) | TBD               | 40% (range 25%-40%)  |
-
----
-
 ## 📚 Recommended Course Texts
 
 | Author(s)                | Title                                                        | Publisher & Year           |
