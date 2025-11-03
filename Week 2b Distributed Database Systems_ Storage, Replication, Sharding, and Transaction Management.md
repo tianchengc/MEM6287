@@ -197,9 +197,9 @@ BASE stands for:
 
 | Letter       | Meaning                         | Description                                     |
 |--------------|--------------------------------|-------------------------------------------------|
-| **B**        | Basic Availability             | The system guarantees that **some version** of the data is available. |
-| **A**        | Soft-State                    | The system state may change over time, even without input (e.g., replication delays). |
-| **SE**       | Eventual Consistency          | The system guarantees that, **eventually**, all nodes will be consistent. |
+| **BA**        | Basic Availability             | The system guarantees that **some version** of the data is available. |
+| **S**        | Soft-State                    | The system state may change over time, even without input (e.g., replication delays). |
+| **E**       | Eventual Consistency          | The system guarantees that, **eventually**, all nodes will be consistent. |
 
 ### BASE Characteristics
 
