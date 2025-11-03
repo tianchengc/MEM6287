@@ -101,15 +101,17 @@ $$\text{Primary Key} = \text{Partition Key} + \lbrack \text{Clustering Columns}\
 
 - Tunable consistency allows adjusting **consistency level per read/write operation**.
 - Balances **consistency, availability, latency, and throughput**.
-- Common consistency levels:
+- Common consistency levels from low consistency to high consistency:
 
 | Consistency Level | Description |
 | --- | --- |
 | ONE | Operation succeeds if at least one replica responds. |
-| QUORUM | Operation succeeds if a majority of replicas respond. |
-| ALL | Operation succeeds only if all replicas respond. |
 | LOCAL_QUORUM | Quorum of replicas in the same data center. |
+| QUORUM | Operation succeeds if a majority of replicas respond. |
 | EACH_QUORUM | Quorum of replicas in every data center. |
+| ALL | Operation succeeds only if all replicas respond. |
+
+
 
 - **QUORUM** is calculated as:
 
